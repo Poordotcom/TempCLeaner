@@ -32,3 +32,9 @@ Cleaning Temporary Files is a simple batch script for Windows that cleans tempor
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center">
+  Made with ❤️ by [Your Name](https://yourwebsite.com/)
+</p>
