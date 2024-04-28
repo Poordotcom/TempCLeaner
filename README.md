@@ -29,6 +29,10 @@ Cleaning Temporary Files is a simple batch script for Windows that cleans tempor
 - `USERPROFILE\Local Settings\Temp`
 - `USERPROFILE\AppData\Local\Temp`
 
+## 🖼️ Screenshot
+
+ ![Screenshot](https://raw.githubusercontent.com/Poordotcom/TempCLeaner/main/assets/Screen.png)
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
