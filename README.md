@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-![Cleaning Temporary Files](https://www.shutterstock.com/image-vector/data-cleansing-people-cleaning-folder-600nw-1494628892.jpg)
+<img src = https://www.shutterstock.com/image-vector/data-cleansing-people-cleaning-folder-600nw-1494628892.jpg>
 </p>
 Cleaning Temporary Files is a simple batch script for Windows that cleans temporary files from specified folders. It helps in optimizing disk space and improving system performance.
 
