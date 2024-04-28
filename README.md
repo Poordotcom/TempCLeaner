@@ -24,10 +24,10 @@ Cleaning Temporary Files is a simple batch script for Windows that cleans tempor
 ## 📂 Folders to Clean
 
 - `C:\Windows\Temp`
-- `%USERPROFILE%\AppData\Local\Temp`
+- `USERPROFILE\AppData\Local\Temp`
 - `C:\Windows\Prefetch`
-- `%USERPROFILE%\Local Settings\Temp`
-- `%USERPROFILE%\AppData\Local\Temp`
+- `USERPROFILE\Local Settings\Temp`
+- `USERPROFILE\AppData\Local\Temp`
 
 ## 📄 License
 
