@@ -18,7 +18,7 @@ Cleaning Temporary Files is a simple batch script for Windows that cleans tempor
 
 ## 📝 How to Use
 
-1. Run the batch script (`clean_temp_files.bat`).
+1. Run the batch script (`TempCleaner.bat`).
 2. Follow the on-screen instructions.
 3. The script will clean temporary files from the specified folders automatically.
 4. After cleaning is complete, a success message will be displayed.
